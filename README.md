@@ -1,5 +1,7 @@
 # flask-random-img
 
+practicing some flaks concepts here
+
 ```bash
 
 pip install -r requirements.txt
